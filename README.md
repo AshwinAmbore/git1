@@ -1,3 +1,3 @@
-## This is the amazing git tutorials...
+
 ## learning git
 ## changes by dev2
